@@ -30,7 +30,7 @@ Ideal for data analysts, job seekers, and portfolio building — this project de
 - Place `kaggle.json` in `C:\Users\<YourUser>\.kaggle\` (Windows) or `~/.kaggle/` (Mac/Linux)  
 - Use the command `kaggle datasets download -d <dataset-path>` to pull datasets directly into your project.
 
-3. Download Walmart Sales Data
-Data Source: Kaggle Walmart Sales Dataset (~10K rows)
-Dataset Link: https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets
-Storage: Saved in the data/ folder
+### 3. Download Walmart Sales Data
+- Data Source: Use the Kaggle API to download the Walmart sales datasets from Kaggle.
+- Dataset Link: [Walmart Sales Dataset](https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets)
+- Storage: Save the data in the `data/` folder for easy reference and access.
